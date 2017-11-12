@@ -1,0 +1,9 @@
+/* This is a personalized CSS stylesheeet 
+1. selecting all the tags (h1 or p, for ex)
+2. selecting IDs
+3. creating classes
+*/
+
+.newSection {
+    color: #9966ff !important;
+}
